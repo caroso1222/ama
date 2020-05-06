@@ -27,9 +27,6 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 All questions are welcome but not all questions will be answered. To increase the likelyhood of me answering your question it should be relevant to me or my opinions in some way and not something anyone could answer (those are better served by [StackOverflow](https://stackoverflow.com/), etc).
 
-##### Answer format
-
-
 #### Other contact mediums
 
 I can also be reached on [Twitter](https://twitter.com/caroso1222) and [email](mailto:ce.roso398@gmail.com), but I prefer [this medium](https://github.com/caroso1222/ama/issues/new).
