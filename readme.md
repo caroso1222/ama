@@ -25,9 +25,7 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
 ##### Answers from me
 
-All questions are welcome but not all questions will be answered by me. Some questions may be answered by volunteers helping me. Others may not be answered at all. To increase the likelyhood of me answering your question it should:
-
-- Be relevant to me or my opinions in some way and not something anyone could answer (those are better served by [StackOverflow](https://stackoverflow.com/), etc).
+All questions are welcome but not all questions will be answered. To increase the likelyhood of me answering your question it should be relevant to me or my opinions in some way and not something anyone could answer (those are better served by [StackOverflow](https://stackoverflow.com/), etc).
 
 ##### Answer format
 
